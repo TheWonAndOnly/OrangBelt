@@ -1,11 +1,28 @@
+
 <html>
 	<head>
 		<title>YEEEEEEEEEEEEEEEEEEEEEEEEEEEEE <br>
 		frog</title>
 	</head>
 	<body>
-		<h1>Waffle time !</h1>
-
+		<h1>Waffle time!</h1>
+		<table style="width:100%">
+			<tr>
+				<th>beans</th>
+				<th>banana</th>
+				<th>potato</th>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>6</td>
+				<td>Meme</td>
+			</tr>
+			<tr>
+				<td>Heat</td>
+				<td>Feeeeeeeet</td
+				<td>7</td>
+			</tr>
+		</table>
 		<h2>By: Hudson Egbert</h2>
 		<h7>
 		I is waffle
@@ -13,7 +30,16 @@
 		<p>"The potato is estenshol 2 livig yo life and the meme world."<br>
 		<br>
 		-Hudson Egbert</p>
-
+		<a href="https://www.google.com">Too de serch fite</a>
 		<img src="http://previews.123rf.com/images/claudiodivizia/claudiodivizia0902/claudiodivizia090200197/4280885-Digital-room-with-binary-numbers-0-and-1-Stock-Photo.jpg">
+		<ol>
+			<li>Bacca</li>
+			<li>Bacca Beans
+				<ul>
+					<li> banana </li>
+					<li> Walk </li>
+				</ul>
+			</li>
+		</ol>
 	</body>
 </html>
