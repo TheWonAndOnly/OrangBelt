@@ -6,6 +6,7 @@
 	</head>
 	<body>
 		<h1>Waffle time!</h1>
+		<div style="backround-color:#F12AF5">
 		<table style="width:100%">
 			<tr>
 				<th>beans</th>
@@ -27,6 +28,7 @@
 		<h7>
 		I is waffle
 		</h7>
+		</div>
 		<p>"The potato is estenshol 2 livig yo life and the meme world."<br>
 		<br>
 		-Hudson Egbert</p>
@@ -41,5 +43,6 @@
 				</ul>
 			</li>
 		</ol>
+		<h6> I like <span style="color:#5A56FD"> Waffles </span> </h6
 	</body>
 </html>
