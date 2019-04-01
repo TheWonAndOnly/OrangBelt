@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h1>Waffle time!</h1>
-		<div style="backround-color:#F12AF5">
+		<div style="background-color:#23FF00;color:#1A8D6F;padding:20px;">
 		<table style="width:100%">
 			<tr>
 				<th>beans</th>
