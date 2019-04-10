@@ -19,6 +19,20 @@
 	        padding: 14px 16px;
 	        text-decoration: none;
 	    }
+	    .column {
+	float: left;
+	width: 33.33%
+	padding: 15px;
+}
+.row:after {
+	content: " ";
+	clear: both;
+}
+@media screen and (max-width:600px) {
+	.column {
+		width: 100%;
+	}
+}
 	    
 	    </style>
 	    <div class="Header">
