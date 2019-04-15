@@ -4,8 +4,13 @@
 		<title>YEEEEEEEEEEEEEEEEEEEEEEEEEEEEE <br>
 		frog</title>
 	</head>
-	<body>
-	    <style>
+	
+		
+			<style>
+			p.five {
+			border-style: double;
+			border-width 10px;
+		}
 	    .Header { background-color: #000200; 
 	    padding: 50px; 
 	    text-align:center;
@@ -35,6 +40,7 @@
 }
 	    
 	    </style>
+	    <body>
 	    <div class="Header">
 		<h1>Waffle time!</h1>
 		</div>
